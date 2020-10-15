@@ -49,3 +49,23 @@
 * Abra o MySQL Workbench e clique no _+_ que aparece encima das Conexões existentes:
 
 <img src="../../source/images/workbench-init.png">
+
+* Agora iremos definir informações necessárias para a Conexão, como abaixo:
+
+<img src="../../Source/Images/workbench-info.png">
+
+Informação|Para que serve
+|---|---|
+Connection Name| Nome da Conexão
+Connection Method| O normal é Standard(TCP/IP)
+Hostname|127.0.0.1 é o **Localhost**, ou seja, somente vai ser um Banco de Dados interno.
+Port|Porta da Conexão, normalmente é 3306
+Username| é o usuário Root que acessa o Banco de Dados
+Password| Senha definida quando foi alterado a senha do Usuário Root
+Default Schema| Seria o Schema padrão daquela conexão, deixando em Branco pode ser Definido qualquer Schema depois
+
+**Acessando Nova Conexão**
+
+* Após iniciado a Conexão podemos ver a seguinte tela:
+
+<img src="../../Source/Images/workbench-descriptions.png">
