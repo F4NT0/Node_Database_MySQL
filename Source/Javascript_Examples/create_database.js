@@ -1,7 +1,7 @@
 /**
  CRIANDO UM BANCO DE DADOS NO MYSQL NO JAVASCRIPT
  Autor: Gabriel Fanto
- Versão: 1.0
+ Versão: 2.0
  Descrição: Criando o Primeiro Banco de dados no Javascript
  Observação1: Baixe o Módulo mysql com o comando (npm install mysql)
  Observação2: Baixe o Módulo cli-color com o comando (npm install cli-color)
