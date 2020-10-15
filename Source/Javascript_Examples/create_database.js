@@ -24,9 +24,9 @@ connection.connect(function(error){
     console.log(color.green("MySQL Connected!"));
 
     // Criando o Banco de dados com o comando query
-    connection.query("CREATE DATABASE example",function(error,result){
+    connection.query("CREATE DATABASE test",function(error,result){
         if(error) throw error;
-        console.log(color.yellow("Database [example] Created!"))
+        console.log(color.yellow("Database [test] Created!"))
     });
 });
 
