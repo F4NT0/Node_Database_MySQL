@@ -1,7 +1,7 @@
 /**
  EXEMPLO DE CONEXÃO SIMPLES AO BANCO DE DADOS MYSQL
  Autor: Gabriel Fanto
- Versão: 1.0
+ Versão: 2.0
  Descrição: Como fazer uma simples conexão com MySQL
  Observação: Baixe o Módulo mysql com o comando (npm install mysql)
 */
