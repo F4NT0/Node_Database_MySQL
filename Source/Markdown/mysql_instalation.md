@@ -48,7 +48,7 @@
 
 * Abra o MySQL Workbench e clique no _+_ que aparece encima das Conexões existentes:
 
-<img src="../../Source/images/workbench-init.png">
+<img src="../../Source/Images/workbench-init.png">
 
 * Agora iremos definir informações necessárias para a Conexão, como abaixo:
 
