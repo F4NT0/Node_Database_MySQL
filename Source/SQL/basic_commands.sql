@@ -9,9 +9,3 @@ create database databaseName
 ---------------------------------
 
 drop database databaseName
-
------------------------------
--- CREATING TABLE ON DATABASE
------------------------------
-
-
