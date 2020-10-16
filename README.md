@@ -14,7 +14,7 @@ cli-color|Colocar cores nas Saidas dos Console.logs|`npm install cli-color`
 
 #### Diretórios
 
-<img src="../Node_Database_MySQL/Source/Images/directories.png">
+<img src="Source/Images/directories.png">
 
 Nome do Diretório|Para que serve|
 |---|---|
