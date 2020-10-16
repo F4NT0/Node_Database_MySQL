@@ -31,7 +31,7 @@ var connection = mysql.createConnection({
 connection.connect(function(error){
     if(error) throw error;
     console.log("MySQL Connected!");
-})
+});
 ```
 
 Agora podemos usar a Função **query** dentro da Função **connect** onde após a conexão funcionar ele vai fazer o pedido da Função **query** interna.
@@ -68,6 +68,6 @@ connection.connect(function(error){
 <img src="../../Source/Images/schema-after.png">
 
 
-
+* O Arquivo com o Exemplo Completo se encontra [AQUI](../Javascript_Examples/create_database.js)
 
  
