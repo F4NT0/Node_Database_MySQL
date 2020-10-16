@@ -28,9 +28,9 @@ Nome do Diretório|Para que serve|
 
 #### Documentação Interna
 
-1. [Instalando MySQL no Linux](../Node_Database_MySQL/Source/Markdown/mysql_instalation.md)
-2. [Como criar uma Conexão com Banco de Dados MySQL](../Node_Database_MySQL/Source/Markdown/node_mysql.md)
-3. [Como criar um Banco de Dados por Javascript](../Node_Database_MySQL/Source/Markdown/create_database.md)
-4. [Como Deletar um Banco de Dados por Javascript](../Node_Database_MySQL/Source/Markdown/delete_database.md)
-5. [Como Criar uma Tabela no Banco de Dados por Javascript](../Node_Database_MySQL/Source/Markdown/create_table.md)
-6. [Como Deletar uma Tabela no Banco de Dados por Javascript](../Node_Database_MySQL/Source/Markdown/delete_table.md)
+1. [Instalando MySQL no Linux](Source/Markdown/mysql_instalation.md)
+2. [Como criar uma Conexão com Banco de Dados MySQL](Source/Markdown/node_mysql.md)
+3. [Como criar um Banco de Dados por Javascript](Source/Markdown/create_database.md)
+4. [Como Deletar um Banco de Dados por Javascript](Source/Markdown/delete_database.md)
+5. [Como Criar uma Tabela no Banco de Dados por Javascript](Source/Markdown/create_table.md)
+6. [Como Deletar uma Tabela no Banco de Dados por Javascript](Source/Markdown/delete_table.md)
