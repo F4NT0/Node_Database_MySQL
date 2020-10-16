@@ -7,8 +7,7 @@ var color = require('cli-color');
 var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "senha",
-    database: "connection" //definindo o banco de dados
+    password: "senha"
 });
 
 // CONECTANDO
@@ -17,10 +16,11 @@ connection.connect(function(error){
     console.log(color.green("MySQL Connected!"));
 
     // Criando uma Tabela nova no Banco de Dados
-    var command = "drop table newtable1";
+    var command = "create database exampletest";
     connection.query(command, function(error,result){
         if(error) throw error;
-        console.log(color.red("Table [newtable1] Deleted!"));
+        console.log(color.yellow("database [exampletest] Created!"));
     });
 
+    connection.end();
 });
