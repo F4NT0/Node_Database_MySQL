@@ -1,17 +1,17 @@
 ----------------------------------
--- CREATING A NEW DATABASE ON SQL
+-- CREATE A NEW DATABASE ON SQL
 ----------------------------------
 
 create database databaseName;
 
 ---------------------------------
--- REMOVING A NEW DATABASE ON SQL
+-- REMOVE A NEW DATABASE ON SQL
 ---------------------------------
 
 drop database databaseName;
 
 --------------------------
--- CREATING A TABLE ON SQL
+-- CREATE A TABLE ON SQL
 --
 -- TYPES:
 -- varchar = String
@@ -20,3 +20,9 @@ drop database databaseName;
 --------------------------
 
 create table tableName (var1 varchar(255), var2 int(255));
+
+-----------------------------
+-- REMOVE TABLE FROM DATABASE
+-----------------------------
+
+drop table tableName;
