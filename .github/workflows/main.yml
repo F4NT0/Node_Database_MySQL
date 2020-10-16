@@ -31,6 +31,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: cd Source/ && npm install
-      - run: cd Source/ && node connection.js
+      - run: cd Source/ && node CI.js
         env:
           CI: true
